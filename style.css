@@ -1,0 +1,8 @@
+.body-background{
+    background-image: url("https://media.istockphoto.com/vectors/color-pencils-background-rainbow-frame-for-kids-or-school-design-vector-id1171830053?b=1&k=20&m=1171830053&s=612x612&w=0&h=FSo8FknrTAYhiO2693NkVWwy4E8lDQKl19rwIFUbu3c=");
+    background-position: center;
+    background-size: cover;
+}
+#circle_canvas{
+    background-color: white;
+}
